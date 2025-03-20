@@ -15,7 +15,7 @@ This is my personal portfolio website showcasing my skills, projects, and accomp
 
 
 ## How to Use
-*Clone the repository:* git clone [repository URL]
+*Clone the repository:* git clone https://github.com/Misgana-design/PRODIGY_WD_02
 
 Open index.html in your browser.
 
