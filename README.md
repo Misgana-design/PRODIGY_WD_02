@@ -8,18 +8,18 @@ This is my personal portfolio website showcasing my skills, projects, and accomp
 
 *Contact Form:* Easy way to get in touch.
 
-## Technologies Used
+### Technologies Used
 **HTML**
 
 **CSS**
 
 
-## How to Use
+### How to Use
 *Clone the repository:* git clone https://github.com/Misgana-design/PRODIGY_WD_02
 
 Open index.html in your browser.
 
-## Live Demo
+### Live Demo
 Check out the live demo here: https://misgana-design.github.io/PRODIGY_WD_02/
 
 ## Acknowledgments
