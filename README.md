@@ -20,7 +20,7 @@ This is my personal portfolio website showcasing my skills, projects, and accomp
 Open index.html in your browser.
 
 ## Live Demo
-Check out the live demo here: [Insert Live Demo Link]
+Check out the live demo here: https://misgana-design.github.io/PRODIGY_WD_02/
 
 ## Acknowledgments
 
